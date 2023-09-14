@@ -1,4 +1,4 @@
 # My-Project
 Git Repository
 <br>
-Author - Nilesh Singh
+Author - Nilesh (Singh)
